@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Khushi Srivastava
 
-<!--
-**khushigithub1/khushigithub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an aspiring Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I love building projects that solve real-world problems using data-driven solutions.  
 
-Here are some ideas to get you started:
+- 🎓 Currently learning advanced Data Science & AI concepts  
+- 💻 Skilled in Python, SQL, Data Analysis, Machine Learning  
+- 📊 Passionate about exploring data, building predictive models, and visualizing insights  
+- 🌱 Open to internships, projects, and collaborative opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** Python, C++, JavaScript  
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+- **Web & Databases:** SQL, MySQL, HTML, CSS  
+- **Other Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+ 
+
+
