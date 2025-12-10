@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Khushi Srivastava
+# Hi there 👋, I'm Akanksha Srivastava
 
 ## About Me
 I'm an aspiring Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I love building projects that solve real-world problems using data-driven solutions.  
