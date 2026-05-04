@@ -40,7 +40,7 @@ https://github.com/khushigithub1/telecom-churn-prediction
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: (https://www.linkedin.com/in/akanksha-srivastava-20a43623b/)
 
 ---
 
