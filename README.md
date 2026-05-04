@@ -1,18 +1,51 @@
-# Hi there 👋, I'm Akanksha Srivastava
+<h1 align="center">Hi 👋, I'm Akanksha Srivastava</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
-## About Me
-I'm an aspiring Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I love building projects that solve real-world problems using data-driven solutions.  
+---
 
-- 🎓 Currently learning advanced Data Science & AI concepts  
-- 💻 Skilled in Python, SQL, Data Analysis, Machine Learning  
-- 📊 Passionate about exploring data, building predictive models, and visualizing insights  
-- 🌱 Open to internships, projects, and collaborative opportunities  
+## 👩‍💻 About Me
+- 🎓 BCA Student  
+- 📊 Interested in Data Science & Machine Learning  
+- 💡 Love working on real-world ML projects  
+- 🌱 Currently learning: Model Deployment & Advanced ML  
 
-## Skills
-- **Programming Languages:** Python, C++, JavaScript  
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
-- **Web & Databases:** SQL, MySQL, HTML, CSS  
-- **Other Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+---
+
+## 🚀 Skills
+- Python 🐍  
+- Machine Learning 🤖  
+- Data Analysis 📊  
+- Pandas, NumPy  
+- Scikit-learn  
+- Data Visualization (Matplotlib, Seaborn)  
+
+---
+
+## 📊 Featured Project
+### 🔹 Telecom Churn Prediction
+- Built a machine learning model to predict customer churn  
+- Performed data preprocessing, EDA & model building  
+- Used algorithms like Random Forest & SVM  
+
+👉 GitHub Repo:  
+https://github.com/khushigithub1/telecom-churn-prediction  
+
+---
+
+## 🌐 Future Goals
+- Build real-time ML applications  
+- Deploy projects using Streamlit  
+- Become a Data Scientist  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: (add your link here)
+
+---
+
+⭐ From [khushigithub1](https://github.com/khushigithub1)
+ 
  
 
 
