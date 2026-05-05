@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Akanksha Srivastava</h1>
 <h3 align="center">✨ Aspiring Data Scientist | ML Enthusiast ✨</h3>
 
